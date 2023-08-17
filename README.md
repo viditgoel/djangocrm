@@ -1,0 +1,2 @@
+# djangocrm
+django project
